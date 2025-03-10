@@ -1,1 +1,2 @@
 # news
+# cerita pagi ini
